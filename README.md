@@ -1,2 +1,1 @@
-# C-_Programs
-Some of my C++ programs
+Simple C++ app to manage different types of bank accounts
